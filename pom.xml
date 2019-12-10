@@ -35,7 +35,7 @@
   <build>
     <pluginManagement>
       <plugins>
-        <plugin>
+<!--        <plugin>
           <artifactId>maven-checkstyle-plugin</artifactId>
           <configuration>
             <sourceDirectory>${project.build.sourceDirectory}</sourceDirectory>
@@ -43,7 +43,7 @@
             <includeTestSourceDirectory>true</includeTestSourceDirectory>
             <violationSeverity>warning</violationSeverity>
           </configuration>
-        </plugin>
+        </plugin> -->
       </plugins>
     </pluginManagement>
 
