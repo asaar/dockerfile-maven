@@ -107,12 +107,12 @@
 
   <build>
     <plugins>
-      <plugin>
+      <!-- <plugin>
         <artifactId>maven-checkstyle-plugin</artifactId>
       </plugin>
       <plugin>
         <artifactId>maven-enforcer-plugin</artifactId>
-      </plugin>
+      </plugin> -->
       <plugin>
         <artifactId>maven-failsafe-plugin</artifactId>
       </plugin>
